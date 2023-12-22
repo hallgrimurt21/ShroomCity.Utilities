@@ -79,19 +79,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LILwh\\.nuget\\packages\\": {}
+    "C:\\Users\\Halli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LILwh\\OneDrive\\Desktop\\ShroomCity\\ShroomCity.Utilities\\ShroomCity.Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\Halli\\Desktop\\ShroomCity\\ShroomCity.Utilities\\ShroomCity.Utilities.csproj",
       "projectName": "ShroomCity.Utilities",
-      "projectPath": "C:\\Users\\LILwh\\OneDrive\\Desktop\\ShroomCity\\ShroomCity.Utilities\\ShroomCity.Utilities.csproj",
-      "packagesPath": "C:\\Users\\LILwh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LILwh\\OneDrive\\Desktop\\ShroomCity\\ShroomCity.Utilities\\obj\\",
+      "projectPath": "C:\\Users\\Halli\\Desktop\\ShroomCity\\ShroomCity.Utilities\\ShroomCity.Utilities.csproj",
+      "packagesPath": "C:\\Users\\Halli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Halli\\Desktop\\ShroomCity\\ShroomCity.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LILwh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Halli\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
